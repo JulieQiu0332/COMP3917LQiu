@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Files";
+    string[] fileslist= ViewBag.Files as string[];
+    int i =0;
+}
+
+<div class="text-center">
+    <h1 class="display-4">This is in File - Index</h1>
+
+</div>
+
+
+
+
+<ul>
+    @foreach (var item in fileslist)
+    {
+        i++;
+        <li><a asp-controller="File"
+                asp-action="Content"
+                asp-route-id = "@i">@item</a>
+        </li>
+        
+    }
+</ul> 
+
+       
+
+
+
+
+    
+    
+    
+
