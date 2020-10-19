@@ -7,21 +7,31 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using lab02_MVC.Models;
 using System.IO;
+using Microsoft.AspNetCore.Hosting;
 
 namespace lab02_MVC.Controllers
 {
     public class FileController : Controller
     {
         private readonly ILogger<FileController> _logger;
+
+        private readonly IWebHostEnvironment _webHostEnvironment;
+
+
+    // public IActionResult Index()
+    // {
+    //     return Content(_webHostEnvironment.WebRootPath + "\n" + _webHostEnvironment.ContentRootPath);
+    // }
  
-        public FileController(ILogger<FileController> logger)
+        public FileController(ILogger<FileController> logger,IWebHostEnvironment webHostEnvironment)
         {
             _logger = logger;
+             _webHostEnvironment = webHostEnvironment;
         }
 
         public IActionResult Index()
         { 
-            ViewBag.Files = Directory.GetFiles("./TextFiles");
+            ViewBag.Files = Directory.GetFiles(Content(_webHostEnvironment.WebRootPath + "\n" + _webHostEnvironment.ContentRootPath) +"/TextFiles");
             return View();
         }
 
