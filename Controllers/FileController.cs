@@ -31,7 +31,7 @@ namespace lab02_MVC.Controllers
 
         public IActionResult Index()
         { 
-            ViewBag.Files = Directory.GetFiles(Content(_webHostEnvironment.WebRootPath + "\n" + _webHostEnvironment.ContentRootPath) +"/TextFiles");
+            ViewBag.Files = Directory.GetFiles(Content( _webHostEnvironment.ContentRootPath) +"/TextFiles");
             return View();
         }
 
