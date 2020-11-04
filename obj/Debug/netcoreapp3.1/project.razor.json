@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\lab02_MVC.csproj",
+  "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\lab02_MVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,48 +14392,48 @@
   "RootNamespace": "lab02_MVC",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\File\\Content.cshtml",
-      "TargetPath": "Views\\File\\Content.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\Views\\File\\Index.cshtml",
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\File\\Content.cshtml",
+      "TargetPath": "Views\\File\\Content.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\File\\Index.cshtml",
       "TargetPath": "Views\\File\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],

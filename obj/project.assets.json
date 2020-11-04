@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\lab02_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\lab02_MVC.csproj",
       "projectName": "lab02_MVC",
-      "projectPath": "C:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\lab02_MVC.csproj",
+      "projectPath": "C:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\lab02_MVC.csproj",
       "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julie\\Desktop\\COMP3973\\lab02_MVC\\obj\\",
+      "outputPath": "C:\\Users\\julie\\Desktop\\COMP3973\\Labs\\lab02_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julie\\AppData\\Roaming\\NuGet\\NuGet.Config",
